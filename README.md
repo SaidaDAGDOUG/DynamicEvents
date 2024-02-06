@@ -45,6 +45,10 @@ Thus, as a first step in this task, you’ll need to add a button element, with 
     alert(`Computer number: ${randomNum}, Your guess: ${userInput}`);
   }
    ```
-**Step 5:**  
+**Step 5:** 
+
   Save your changes and run the app. Preview it in the browser. You should be able to click a button, which will trigger the handleClick function. The handleClick function will in turn show a prompt pop up which you can type into. After you’ve finished, an alert pop up will show computer’s “choice” and your guess. After you click “ok” to close the alert, you’ll be able to click the button again and try matching the number "chosen" by the computer one more time.   
-  
+<img width="1436" alt="Home" src="https://github.com/SaidaDAGDOUG/DynamicEvents/assets/92460033/38fdb992-25a2-40d7-bb66-2adf364b6938">
+<img width="1436" alt="onClickButton" src="https://github.com/SaidaDAGDOUG/DynamicEvents/assets/92460033/8a85a1fc-0fe9-4c6e-ac92-1e9e01926277">
+<img width="1436" alt="Resulat" src="https://github.com/SaidaDAGDOUG/DynamicEvents/assets/92460033/03abc9d6-f858-4cb8-9fb4-86a21c821030">
+
