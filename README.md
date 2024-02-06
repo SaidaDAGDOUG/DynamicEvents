@@ -34,7 +34,7 @@ Thus, as a first step in this task, you’ll need to add a button element, with 
 
 
 **Step 3:**  
-  Inside the opening button tag, add the onClick event-handling attribute, and pass it the following JSX expression: {handleClick}. 
+  Inside the opening button tag, add the onClick event-handling attribute, and pass it the following JSX expression: {handleClick}.   
 **Step 4:**  
   Above the return statement of the App component - but still inside the App function - add the handleClick function as you see below: 
    ```bash
