@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is lab from the Coursera course "React Basics"
+This project is lab from the Coursera course "React Basics".  
 
 ## Task:
 When a user interacts with your React app, this will trigger events. You've learned how to handle user-generated events, so now you can reinforce what you've learned by practicing event handling. To make this more fun, in this exercise, you'll be building a simple number-guessing game.
@@ -11,7 +11,7 @@ When a user interacts with your React app, this will trigger events. You've lear
 Follow these steps to complete the project:
 
 **Step 1:**  
-Rq:Clear the content of the App function
+Rq:Clear the content of the App function.  
  This task’s starting point is the App component’s h1 element that reads: “Task: Add a button and handle a click event”.
 
 ```bash
